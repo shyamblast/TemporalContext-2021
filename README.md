@@ -1,7 +1,7 @@
-# TemporalContext
+# TemporalContext [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4661565.svg)](https://doi.org/10.5281/zenodo.4661565)
 Implementation of algorithm described in
 
-> Shyam Madhusudhana et al. **(2021)**. "Improve detection of call sequences with temporal context." (_under review_)
+> Shyam Madhusudhana et al. **(2021)**. "Improve automatic detection of animal call sequences with temporal context." _Journal of the Royal Society Interface_, 20210297. [DOI: 10.1098/rsif.2021.0297](https://doi.org/10.1098/rsif.2021.0297)
 
 for improving a CNN's ability to detect animal call sequences by attaching a recurrent network to it.
 
